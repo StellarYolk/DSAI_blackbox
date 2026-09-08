@@ -2,14 +2,14 @@
 
 As you may have noticed that you have separate folders with your name. Your job is to maintain that folder with the stuff that I send you. This will also help you to familiarize with git and github.
 
----
+
 
 ## Tasks Section
 
 - [ ] Learn git and GitHub (how it works and how to use it)
 - [ ] Pull this repo in your local machine
 
----
+
 
 ## Links, References and Materials
 
