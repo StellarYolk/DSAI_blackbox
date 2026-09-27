@@ -6,8 +6,9 @@ As you may have noticed that you have separate folders with your name. Your job 
 
 ## Tasks Section
 
-- [ ] Learn git and GitHub (how it works and how to use it)
-- [ ] Pull this repo in your local machine
+- [ ] Get an idea of what an .ipynb file is
+- [ ] Complete the assignment by next weekend
+- [ ] Start learning mathematics for ML, refer the file **ML Maths.md**
 
 
 
