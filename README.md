@@ -6,10 +6,8 @@ As you may have noticed that you have separate folders with your name. Your job 
 
 ## Tasks Section
 
-- [ ] Get an idea of what an .ipynb file is
-- [ ] Complete the assignment by next weekend
-- [ ] Start learning mathematics for ML, refer the file **ML Maths.md**
-
+- [ ] Complete multi-variate calculas by Nov 15
+- [ ] start exploring the idea of [Mangonel](https://github.com/StellarYolk/Mangonel), discussion next Wed
 
 
 ## Links, References and Materials
