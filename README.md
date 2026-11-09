@@ -8,6 +8,7 @@ As you may have noticed that you have separate folders with your name. Your job 
 
 - [ ] Complete multi-variate calculas by Nov 15
 - [ ] start exploring the idea of [Mangonel](https://github.com/StellarYolk/Mangonel), discussion next Wed
+- ### check ("special references")[special_references.md] for additional insight  
 
 
 ## Links, References and Materials
