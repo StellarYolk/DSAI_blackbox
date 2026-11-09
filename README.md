@@ -14,5 +14,6 @@ As you may have noticed that you have separate folders with your name. Your job 
 
 ## Links, References and Materials
 
+- [Andrew Ng ML course](https://youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) $\rightarrow$ The absolute best for starting ML. Covers ML (no DL for now but gives a taste for it) and the mathematical intuition behind it. Enables you to start projects with a better sight and mind.  
 - [Roadmap.sh](https://roadmap.sh/) $\rightarrow$ this is basically your stepping stone right now. It contains roadmaps for a lot of the stuff we will be going over
 - [Markdown guide](https://www.markdownguide.org/) $\rightarrow$ This will help you to learn and write in markdown. This will be useful since most of the models are trained on markdown text
